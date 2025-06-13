@@ -4,7 +4,6 @@ import io.quarkus.hibernate.reactive.panache.PanacheEntity;
 import jakarta.persistence.*;
 import org.acme.enums.UserRole;
 import org.acme.enums.UserStatus;
-import org.acme.services.UserService;
 
 import java.time.LocalDateTime;
 
