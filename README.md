@@ -1,4 +1,4 @@
-# reactive-start
+# quarkus learn by denis
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
